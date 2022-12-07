@@ -1,9 +1,9 @@
-# undefined
-  [Github license] (https://img.shields.io/badge/license-{license}-blue.svg)
+# README TEST
+  
 
   ## Description 
 
-  teehee! n
+  description! n
 
   ## Table of Contents 
 
@@ -30,29 +30,25 @@
 
   ## Usage 
 
-  using! 
+  they would contact me 
 
-  ##License 
-
-  This project is licensed under the 
- [License](#license)
-. 
+  N/A 
 
   ## Contribution 
 
-  undefined 
+  contact me 
 
   ## Tests 
 
   To run test, run the following command(s): 
 
   ```
-  undefined
+  npm test
   ``` 
 
   ## Questions 
 
   If you have more questions about the repo, open an issue
-  or contact me directly at undefined. 
+  or contact me directly at jpiromg@gmail.com. 
 
   You can find more of my work at [cytoplasma](https://github.com/cytoplasma).

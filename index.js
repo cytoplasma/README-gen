@@ -12,11 +12,16 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'input',
+    name: 'email',
     message: 'Enter your email address.'
 },
 {
-    type: 'email',
+    type: 'input',
+    name: 'title',
+    message: 'Enter the project name: ',
+},
+{
+    type: 'input',
     name: 'description',
     message: 'Enter a brief description of this project.',
 },
@@ -30,7 +35,13 @@ const questions = [{
     type: 'input',
     name: 'installation',
     message: 'How would one go about installing the required files?',
-    default: 'npm i',
+    default: 'npm i'
+},
+{
+    type: 'input',
+    name: 'tests',
+    message: 'What commands should be run for testing?',
+    default: 'npm test'
 },
 {
     type: 'input',
@@ -39,7 +50,7 @@ const questions = [{
 },
 {
     type: 'input',
-    name: 'contributing',
+    name: 'contribution',
     message: 'Type what the user would need to know about contributing to your repo.',
 },
 ];
