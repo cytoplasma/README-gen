@@ -1,9 +1,10 @@
-# README GENERATOR TEST
-  ![Github license] (https://img.shields.io/badge/license-{license}-blue.svg)
+# README GENERATOR
+  ![Github license] (https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
 
-  This is a sample description to display the functionality. n
+  This is a sample description 
+
 
   ## Table of Contents 
 
@@ -25,12 +26,12 @@
   To install necessary dependencies, run the following command: 
 
   ```
-  '
+  npm i
   ``` 
 
   ## Usage 
 
-  use it.. 
+  Clone the repo, install the required dependencies, and run 'node index.js' into the terminal. Respond to the prompts, and then the README.md will be overwritten and generate to your needs. 
 
   ## License 
 
@@ -38,14 +39,14 @@
 
   ## Contribution 
 
-  i dunno 
+  Contact the owner by referring below or open an issue in the repo. 
 
   ## Tests 
 
   To run test, run the following command(s): 
 
   ```
-  '
+  npm test
   ``` 
 
   ## Questions 
