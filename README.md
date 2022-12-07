@@ -1,9 +1,9 @@
 # README GENERATOR
-  ![Github license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
 
-  This project is a command line based application used to generate read me files and, ultimately, facilitate the whole process. 
+  This project is a command-line based application used to generate README files and, ultimately, facilitate the whole process. 
 
 
   ## Table of Contents 
@@ -31,15 +31,15 @@
 
   ## Usage 
 
-  Clone the repository, install the required dependencies, then run the command: 'node index.js' into the terminal. Respond accordingly to the prompts that are given, then the README.md file in the project will be overwritten. 
+  To use this application: clone the repository, install the required dependencies, then run the command: "node index.js" into the terminal. Respond accordingly to the prompts that are given, then the README.md file will be overwritten to your customization. 
 
   ## License 
 
-    This project is licensed under the GPL 3.0 license. 
+    This project is licensed under the MIT license. 
 
   ## Contribution 
 
-  To contribute, please contact the owner through the email displayed below, or open an issue in the repository. 
+  To contribute to this project, please contact the owner via the email below or open an issue in the repository. 
 
   ## Tests 
 
