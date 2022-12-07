@@ -21,9 +21,10 @@ const questions = [{
     message: 'Enter a brief description of this project.',
 },
 {
-    type: 'input',
+    type: 'list',
     name: 'license',
-    message: 'Enter the license for this project.',
+    message: 'Choose a license.',
+    choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
 },
 {
     type: 'input',
