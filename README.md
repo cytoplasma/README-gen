@@ -1,9 +1,9 @@
-# README TEST
-  
+# README GENERATOR TEST
+  ![Github license] (https://img.shields.io/badge/license-{license}-blue.svg)
 
   ## Description 
 
-  description! n
+  This is a sample description to display the functionality. n
 
   ## Table of Contents 
 
@@ -25,25 +25,27 @@
   To install necessary dependencies, run the following command: 
 
   ```
-  npm i
+  '
   ``` 
 
   ## Usage 
 
-  they would contact me 
+  use it.. 
 
-  N/A 
+  ## License 
+
+    This project is licensed under the MIT license. 
 
   ## Contribution 
 
-  contact me 
+  i dunno 
 
   ## Tests 
 
   To run test, run the following command(s): 
 
   ```
-  npm test
+  '
   ``` 
 
   ## Questions 
